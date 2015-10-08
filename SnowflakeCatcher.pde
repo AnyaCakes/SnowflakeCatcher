@@ -22,7 +22,7 @@ void draw()
     storm[i].show();
   }
 }
-void mousePressed()
+void mouseDragged()
 {
   fill(255,0,0);
   stroke(255,0,0);
