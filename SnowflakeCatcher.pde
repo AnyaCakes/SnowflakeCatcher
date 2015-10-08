@@ -1,4 +1,4 @@
-final int num=400;
+final int num=100;
 Snowflake [] storm=new Snowflake[num];
 void setup()
 {
